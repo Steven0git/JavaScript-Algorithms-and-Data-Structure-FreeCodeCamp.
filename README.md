@@ -10,6 +10,6 @@ This repository contains the code implementations of various algorithms and data
 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
-**Contact**
+## Contact
 
 For any questions or feedback, please feel free to open an issue or contact me directly.
